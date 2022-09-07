@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">QR Code</string>
+
+    <string name="pref_key_enable_barcode_size_check" translatable="false">barcode_ebsc</string>
+    <string name="pref_key_minimum_barcode_width" translatable="false">barcode_mbw</string>
+    <string name="pref_key_barcode_reticle_width" translatable="false">barcode_brw</string>
+    <string name="pref_key_barcode_reticle_height" translatable="false">barcode_brh</string>
+    <string name="pref_key_rear_camera_picture_size" translatable="false">rcpts</string>
+    <string name="pref_key_rear_camera_preview_size" translatable="false">rcpvs</string>
+
+    <string name="cd_close_button">Back</string>
+    <string name="cd_flash_button">Toggle camera flash</string>
+    <string name="help">Help</string>
+    <string name="allow_camera_access">Allow camera access</string>
+    <string name="allow">Allow</string>
+    <string name="to_enable_the_scan_feature">to enable the scan feature</string>
+    <string name="scan_qr_code">Scan QR Code</string>
+    <string name="please_open_setting_page">Please open the settings page</string>
+    <string name="prompt_point_at_a_qrcode">Point your camera at a QR Code</string>
+    <string name="prompt_move_camera_closer">Move closer to search</string>
+    <string name="prompt_searching">Searching&#8230;</string>
+    <string name="device_not_found">Device not found</string>
+    <string name="msg_subtitle_ERROR">We experienced a problem. Please try again.</string>
+
+</resources>
